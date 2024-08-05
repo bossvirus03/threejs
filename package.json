@@ -1,5 +1,9 @@
 {
   "dependencies": {
-    "three": "^0.167.1"
+    "three": "^0.167.1",
+    "dat.gui": "latest"
+  },
+  "scripts": {
+    "start": "parcel index.html"
   }
 }
